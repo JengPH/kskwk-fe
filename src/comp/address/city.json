@@ -1,0 +1,375 @@
+[
+    
+    {
+        "city_code": "072201",
+        "city_name": "Alcantara",
+        "province_code": "0722",
+        "psgc_code": "072201000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072202",
+        "city_name": "Alcoy",
+        "province_code": "0722",
+        "psgc_code": "072202000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072203",
+        "city_name": "Alegria",
+        "province_code": "0722",
+        "psgc_code": "072203000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072204",
+        "city_name": "Aloguinsan",
+        "province_code": "0722",
+        "psgc_code": "072204000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072205",
+        "city_name": "Argao",
+        "province_code": "0722",
+        "psgc_code": "072205000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072206",
+        "city_name": "Asturias",
+        "province_code": "0722",
+        "psgc_code": "072206000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072207",
+        "city_name": "Badian",
+        "province_code": "0722",
+        "psgc_code": "072207000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072208",
+        "city_name": "Balamban",
+        "province_code": "0722",
+        "psgc_code": "072208000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072209",
+        "city_name": "Bantayan",
+        "province_code": "0722",
+        "psgc_code": "072209000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072210",
+        "city_name": "Barili",
+        "province_code": "0722",
+        "psgc_code": "072210000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072211",
+        "city_name": "City Of Bogo",
+        "province_code": "0722",
+        "psgc_code": "072211000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072212",
+        "city_name": "Boljoon",
+        "province_code": "0722",
+        "psgc_code": "072212000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072213",
+        "city_name": "Borbon",
+        "province_code": "0722",
+        "psgc_code": "072213000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072214",
+        "city_name": "City Of Carcar",
+        "province_code": "0722",
+        "psgc_code": "072214000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072215",
+        "city_name": "Carmen",
+        "province_code": "0722",
+        "psgc_code": "072215000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072216",
+        "city_name": "Catmon",
+        "province_code": "0722",
+        "psgc_code": "072216000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072217",
+        "city_name": "Cebu City (Capital)",
+        "province_code": "0722",
+        "psgc_code": "072217000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072218",
+        "city_name": "Compostela",
+        "province_code": "0722",
+        "psgc_code": "072218000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072219",
+        "city_name": "Consolacion",
+        "province_code": "0722",
+        "psgc_code": "072219000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072220",
+        "city_name": "Cordova",
+        "province_code": "0722",
+        "psgc_code": "072220000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072221",
+        "city_name": "Daanbantayan",
+        "province_code": "0722",
+        "psgc_code": "072221000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072222",
+        "city_name": "Dalaguete",
+        "province_code": "0722",
+        "psgc_code": "072222000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072223",
+        "city_name": "Danao City",
+        "province_code": "0722",
+        "psgc_code": "072223000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072224",
+        "city_name": "Dumanjug",
+        "province_code": "0722",
+        "psgc_code": "072224000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072225",
+        "city_name": "Ginatilan",
+        "province_code": "0722",
+        "psgc_code": "072225000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072226",
+        "city_name": "Lapu-lapu City (Opon)",
+        "province_code": "0722",
+        "psgc_code": "072226000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072227",
+        "city_name": "Liloan",
+        "province_code": "0722",
+        "psgc_code": "072227000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072228",
+        "city_name": "Madridejos",
+        "province_code": "0722",
+        "psgc_code": "072228000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072229",
+        "city_name": "Malabuyoc",
+        "province_code": "0722",
+        "psgc_code": "072229000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072230",
+        "city_name": "Mandaue City",
+        "province_code": "0722",
+        "psgc_code": "072230000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072231",
+        "city_name": "Medellin",
+        "province_code": "0722",
+        "psgc_code": "072231000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072232",
+        "city_name": "Minglanilla",
+        "province_code": "0722",
+        "psgc_code": "072232000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072233",
+        "city_name": "Moalboal",
+        "province_code": "0722",
+        "psgc_code": "072233000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072234",
+        "city_name": "City Of Naga",
+        "province_code": "0722",
+        "psgc_code": "072234000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072235",
+        "city_name": "Oslob",
+        "province_code": "0722",
+        "psgc_code": "072235000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072236",
+        "city_name": "Pilar",
+        "province_code": "0722",
+        "psgc_code": "072236000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072237",
+        "city_name": "Pinamungahan",
+        "province_code": "0722",
+        "psgc_code": "072237000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072238",
+        "city_name": "Poro",
+        "province_code": "0722",
+        "psgc_code": "072238000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072239",
+        "city_name": "Ronda",
+        "province_code": "0722",
+        "psgc_code": "072239000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072240",
+        "city_name": "Samboan",
+        "province_code": "0722",
+        "psgc_code": "072240000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072241",
+        "city_name": "San Fernando",
+        "province_code": "0722",
+        "psgc_code": "072241000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072242",
+        "city_name": "San Francisco",
+        "province_code": "0722",
+        "psgc_code": "072242000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072243",
+        "city_name": "San Remigio",
+        "province_code": "0722",
+        "psgc_code": "072243000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072244",
+        "city_name": "Santa Fe",
+        "province_code": "0722",
+        "psgc_code": "072244000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072245",
+        "city_name": "Santander",
+        "province_code": "0722",
+        "psgc_code": "072245000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072246",
+        "city_name": "Sibonga",
+        "province_code": "0722",
+        "psgc_code": "072246000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072247",
+        "city_name": "Sogod",
+        "province_code": "0722",
+        "psgc_code": "072247000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072248",
+        "city_name": "Tabogon",
+        "province_code": "0722",
+        "psgc_code": "072248000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072249",
+        "city_name": "Tabuelan",
+        "province_code": "0722",
+        "psgc_code": "072249000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072250",
+        "city_name": "City Of Talisay",
+        "province_code": "0722",
+        "psgc_code": "072250000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072251",
+        "city_name": "Toledo City",
+        "province_code": "0722",
+        "psgc_code": "072251000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072252",
+        "city_name": "Tuburan",
+        "province_code": "0722",
+        "psgc_code": "072252000",
+        "region_desc": "07"
+    },
+    {
+        "city_code": "072253",
+        "city_name": "Tudela",
+        "province_code": "0722",
+        "psgc_code": "072253000",
+        "region_desc": "07"
+    }
+    
+]
